@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([["page404"],{"4e33":function(e,n,t){"use strict";t.r(n);var a={name:"page404",data:function(){return{}}},t=t("2877"),a=Object(t.a)(a,function(){var e=this,n=e.$createElement;return(e._self._c||n)("div",[e._v("404页")])},[],!1,null,"5e5c53e5",null);n.default=a.exports}}]);
