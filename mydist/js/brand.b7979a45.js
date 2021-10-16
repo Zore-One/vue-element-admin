@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([["brand"],{fe11:function(n,e,t){"use strict";t.r(e);var l={},t=t("2877"),l=Object(t.a)(l,function(){var n=this,e=n.$createElement;return(n._self._c||e)("div",[n._v("商品品牌")])},[],!1,null,null,null);e.default=l.exports}}]);
